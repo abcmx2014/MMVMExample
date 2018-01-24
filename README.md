@@ -1,8 +1,8 @@
 # MMVMExample
-iOS MVVM example
+iOS Objective-C MVVM example
 
 DataBinding
 
 kvo
 
-Rx
+
